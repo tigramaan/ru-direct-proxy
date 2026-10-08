@@ -1,0 +1,13 @@
+build/
+work/
+vendor/
+*.zip
+*.tar.gz
+*.exe
+*.pdb
+*.log
+settings-before.json
+thunderbird-user-before.json
+state.json
+config.json
+*-result.json

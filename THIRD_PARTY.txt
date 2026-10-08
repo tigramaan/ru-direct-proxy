@@ -1,0 +1,21 @@
+ru-direct-proxy 0.1.0, 2026-10-08.
+Project: https://github.com/tigramaan/ru-direct-proxy
+
+sing-box 1.14.2, copyright SagerNet and contributors.
+Official binary distribution:
+https://github.com/SagerNet/sing-box/releases/tag/v1.14.2
+Source code for the bundled version:
+https://github.com/SagerNet/sing-box/tree/v1.14.2
+https://github.com/SagerNet/sing-box/archive/refs/tags/v1.14.2.tar.gz
+An unchanged upstream source archive is provided alongside the Windows ZIP
+in this project's GitHub release.
+License: GNU General Public License v3.0, included as sing-box-LICENSE.txt.
+The upstream executable is redistributed without modification.
+
+Russian IP rule set from SagerNet/sing-geoip:
+https://github.com/SagerNet/sing-geoip
+https://raw.githubusercontent.com/SagerNet/sing-geoip/7fe82a879ad2666526730c195b55a6d8d9147908/geoip-ru.srs
+The upstream rule set is redistributed without modification.
+
+CountryProxy.exe is a separate launcher that starts the proxy as a child process.
+The bundle contains no VPN profiles, passwords, mail profiles, or machine backups.

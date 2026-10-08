@@ -1,0 +1,25 @@
+{
+  "sing_box_version": "1.14.2",
+  "archive": {
+    "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.2/sing-box-1.14.2-windows-amd64.zip",
+    "sha256": "c2d8bfff918755808781dfdeeb8581b6c91eb3a243d9a7b55483cfc0c0684d32",
+    "entry": "sing-box-1.14.2-windows-amd64/sing-box.exe"
+  },
+  "files": [
+    {
+      "name": "geoip-ru.srs",
+      "url": "https://raw.githubusercontent.com/SagerNet/sing-geoip/7fe82a879ad2666526730c195b55a6d8d9147908/geoip-ru.srs",
+      "sha256": "6e23f5580dd443e2f9c4895adafee8d199c1a3487182ad5f0a2256cf59c7e53a"
+    },
+    {
+      "name": "sing-box-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/SagerNet/sing-box/v1.14.2/LICENSE",
+      "sha256": "650d5e3b99a446fb38e820fa87a49562e0c79eab868fff58618ac487a58e554c"
+    },
+    {
+      "name": "GPL-3.0.txt",
+      "url": "https://www.gnu.org/licenses/gpl-3.0.txt",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    }
+  ]
+}
